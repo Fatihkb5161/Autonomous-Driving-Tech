@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mefat\\OneDrive\\Masa\u00FCst\u00FC\\Masa\u00FCst\u00FC\\2025 E\u011Fitimler\\OTONOM S\u00DCR\u00DC\u015E\\Clean Coding  \u00D6dev\\StudentGradeCalculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3126977F-C2ED-4B4E-9F50-1A31EAE5CE3A}|StudentGradeCalculation\\NotHesapla.csproj|c:\\users\\mefat\\onedrive\\masa\u00FCst\u00FC\\masa\u00FCst\u00FC\\2025 e\u011Fitimler\\otonom s\u00FCr\u00FC\u015F\\clean coding  \u00F6dev\\studentgradecalculation\\studentgradecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3126977F-C2ED-4B4E-9F50-1A31EAE5CE3A}|StudentGradeCalculation\\NotHesapla.csproj|solutionrelative:studentgradecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202E8607-A185-4520-8EE0-131A9C14D5C5}|TestProject1\\Test.csproj|c:\\users\\mefat\\onedrive\\masa\u00FCst\u00FC\\masa\u00FCst\u00FC\\2025 e\u011Fitimler\\otonom s\u00FCr\u00FC\u015F\\clean coding  \u00F6dev\\studentgradecalculation\\testproject1\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202E8607-A185-4520-8EE0-131A9C14D5C5}|TestProject1\\Test.csproj|solutionrelative:testproject1\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\mefat\\OneDrive\\Masa\u00FCst\u00FC\\Masa\u00FCst\u00FC\\2025 E\u011Fitimler\\OTONOM S\u00DCR\u00DC\u015E\\Clean Coding  \u00D6dev\\StudentGradeCalculation\\TestProject1\\UnitTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTests.cs",
+              "ToolTip": "C:\\Users\\mefat\\OneDrive\\Masa\u00FCst\u00FC\\Masa\u00FCst\u00FC\\2025 E\u011Fitimler\\OTONOM S\u00DCR\u00DC\u015E\\Clean Coding  \u00D6dev\\StudentGradeCalculation\\TestProject1\\UnitTests.cs",
+              "RelativeToolTip": "TestProject1\\UnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:05:48.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mefat\\OneDrive\\Masa\u00FCst\u00FC\\Masa\u00FCst\u00FC\\2025 E\u011Fitimler\\OTONOM S\u00DCR\u00DC\u015E\\Clean Coding  \u00D6dev\\StudentGradeCalculation\\StudentGradeCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradeCalculation\\Program.cs",
+              "ToolTip": "C:\\Users\\mefat\\OneDrive\\Masa\u00FCst\u00FC\\Masa\u00FCst\u00FC\\2025 E\u011Fitimler\\OTONOM S\u00DCR\u00DC\u015E\\Clean Coding  \u00D6dev\\StudentGradeCalculation\\StudentGradeCalculation\\Program.cs",
+              "RelativeToolTip": "StudentGradeCalculation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:50:10.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1336,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
